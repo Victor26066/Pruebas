@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blox Fruits Wiki SuperFan</title>
+  <style>
+    body { background-color: #000; color: #FFD700; margin: 0; font-family: Arial; }
+    header { background-color: #111; text-align: center; padding: 30px; }
+    header h1 { color: #ffd700; font-size: 4em; }
+    nav { background-color: #222; text-align: center; padding: 15px; }
+    nav a { color: #fff; margin: 0 10px; text-decoration: none; border: 2px solid #ffd700; padding: 8px 12px; border-radius: 5px; display: inline-block; }
+    nav a:hover { background-color: #ffd700; color: #000; }
+    section { max-width: 1000px; margin: auto; padding: 30px; }
+    h2 { color: #ffd700; border-bottom: 2px solid #333; padding-bottom: 8px; }
+    .item { background-color: #111; padding: 15px; margin: 15px 0; border-radius: 8px; border: 1px solid #333; }
+    .item h3 { margin: 0; color: #ffd700; }
+    .item p { margin: 8px 0; }
+    img { display: block; margin-bottom: 10px; max-width: 200px; }
+    footer { text-align: center; padding: 20px; color: #777; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Blox Fruits</h1>
+  </header>
+
+  <nav>
+    <a href="#frutas">Frutas</a>
+    <a href="#espadas">Espadas</a>
+    <a href="#razas">Razas</a>
+    <a href="#accesorios">Accesorios</a>
+    <a href="#puzles">Puzles</a>
+    <a href="#pistolas">Pistolas</a>
+    <a href="#eventos">Eventos</a>
+    <a href="#estilos">Estilos</a>
+    <a href="#informacion">Informacion Blox Fruits</a>
+  </nav>
+
+  <!-- SECCIÓN FRUTAS -->
+  <section id="frutas">
+    <h2>Frutas</h2>
+
+    <div class="item"><img src="img/frutas/magma.png" alt="Fruta Magma"><h3>Fruta Magma</h3><p>Habilidad: Control del magma, ataques explosivos y de área, Logia con Despertar.</p><p>Obtención: 850,000 Beli o 1,300 Robux.</p></div>
+    <div class="item"><img src="img/frutas/rumble.png" alt="Fruta Rumble"><h3>Fruta Rumble</h3><p>Habilidad: Control de rayos y truenos, Logia con Despertar.</p><p>Obtención: 2,100,000 Beli o 2,100 Robux.</p></div>
+    <div class="item"><img src="img/frutas/dough.png" alt="Fruta Dough"><h3>Fruta Dough</h3><p>Habilidad: Puños de masa, ataques cuerpo a cuerpo, Logia con Despertar.</p><p>Obtención: 2,800,000 Beli o 2,400 Robux.</p></div>
+    <div class="item"><img src="img/frutas/leopardo.png" alt="Fruta Leopardo"><h3>Fruta Leopardo</h3><p>Habilidad: Transformación en leopardo, ataques rápidos y fuertes.</p><p>Obtención: 5,000,000 Beli o 3,000 Robux.</p></div>
+    <div class="item"><img src="img/frutas/veneno.png" alt="Fruta Veneno"><h3>Fruta Veneno</h3><p>Habilidad: Charco venenoso, nube tóxica y Transformación en Hydra.</p><p>Obtención: 3,000,000 Beli o 2,450 Robux.</p></div>
+    <div class="item"><img src="img/frutas/fuego.png" alt="Fruta Fuego"><h3>Fruta Fuego</h3><p>Habilidad: Control del fuego, ataques explosivos, Logia con Despertar.</p><p>Obtención: 250,000 Beli o 550 Robux.</p></div>
+    <div class="item"><img src="img/frutas/luz.png" alt="Fruta Luz"><h3>Fruta Luz</h3><p>Habilidad: Teletransportación y rayos de luz.</p><p>Obtención: 650,000 Beli o 1,100 Robux.</p></div>
+    <div class="item"><img src="img/frutas/arena.png" alt="Fruta Arena"><h3>Fruta Arena</h3><p>Habilidad: Control de arena, ataques succionadores.</p><p>Obtención: 420,000 Beli o 850 Robux.</p></div>
+    <div class="item"><img src="img/frutas/phoenix.png" alt="Fruta Phoenix"><h3>Fruta Phoenix</h3><p>Habilidad: Transformación en ave fénix, curación, ataques aéreos y Despertar.</p><p>Obtención: 1,800,000 Beli o 2,000 Robux.</p></div>
+    <div class="item"><img src="img/frutas/quake.png" alt="Fruta Quake"><h3>Fruta Quake</h3><p>Habilidad: Terremotos, Tsunami y ondas sísmicas con Despertar.</p><p>Obtención: 1,000,000 Beli o 1,500 Robux.</p></div>
+    <div class="item"><img src="img/frutas/ice.png" alt="Fruta Ice"><h3>Fruta Ice</h3><p>Habilidad: Congelación, control del hielo, Despertar, Logia.</p><p>Obtención: 350,000 Beli o 750 Robux.</p></div>
+    <div class="item"><img src="img/frutas/barrier.png" alt="Fruta Barrier"><h3>Fruta Barrier</h3><p>Habilidad: Crear barreras impenetrables.</p><p>Obtención: 800,000 Beli o 1,250 Robux.</p></div>
+    <div class="item"><img src="img/frutas/spider.png" alt="Fruta Spider"><h3>Fruta Spider</h3><p>Habilidad: Control de hilos para ataque y defensa con Despertar.</p><p>Obtención: 1,500,000 Beli o 1,800 Robux.</p></div>
+    <div class="item"><img src="img/frutas/chop.png" alt="Fruta Chop"><h3>Fruta Chop</h3><p>Habilidad: Inmunidad a ataques de espada.</p><p>Obtención: 30,000 Beli o 100 Robux.</p></div>
+    <div class="item"><img src="img/frutas/fantasma.png" alt="Fruta Fantasma"><h3>Fruta Fantasma</h3><p>Habilidad: Revivir después de ser derrotado una vez.</p><p>Obtención: 550,000 Beli o 975 Robux.</p></div>
+    <div class="item"><img src="img/frutas/shadow.png" alt="Fruta Shadow"><h3>Fruta Shadow</h3><p>Habilidad: Control de sombras y minions oscuros.</p><p>Obtención: 2,900,000 Beli o 2,425 Robux.</p></div>
+    <div class="item"><img src="img/frutas/love.png" alt="Fruta Love"><h3>Fruta Love</h3><p>Habilidad: Controlar a los enemigos con el poder del amor.</p><p>Obtención: 700,000 Beli o 1,300 Robux.</p></div>
+    <div class="item"><img src="img/frutas/gravity.png" alt="Fruta Gravity"><h3>Fruta Gravity</h3><p>Habilidad: Manipulación de la gravedad y rocas.</p><p>Obtención: 2,500,000 Beli o 2,300 Robux.</p></div>
+    <div class="item"><img src="img/frutas/diamond.png" alt="Fruta Diamond"><h3>Fruta Diamond</h3><p>Habilidad: Endurecimiento corporal tipo diamante.</p><p>Obtención: 600,000 Beli o 1,000 Robux.</p></div>
+    <div class="item"><img src="img/frutas/bomb.png" alt="Fruta Bomb"><h3>Fruta Bomb</h3><p>Habilidad: Explosiones poderosas a distancia.</p><p>Obtención: 80,000 Beli o 220 Robux.</p></div>
+    <div class="item"><img src="img/frutas/spring.png" alt="Fruta Spring"><h3>Fruta Spring</h3><p>Habilidad: Movilidad con resortes, saltos altos.</p><p>Obtención: 60,000 Beli o 180 Robux.</p></div>
+    <div class="item"><img src="img/frutas/cohete.png" alt="Fruta Cohete"><h3>Fruta Cohete</h3><p>Habilidad: Usa cañones para ataques y movimientos.</p><p>Obtención: 5,000 Beli o 50 Robux.</p></div>
+    <div class="item"><img src="img/frutas/spin.png" alt="Fruta Spin"><h3>Fruta Spin</h3><p>Habilidad: Volar girando, ataques giratorios.</p><p>Obtención: 7,500 Beli o 75 Robux.</p></div>
+    <div class="item"><img src="img/frutas/smoke.png" alt="Fruta Smoke"><h3>Fruta Smoke</h3><p>Habilidad: Control del humo, Logia.</p><p>Obtención: 100,000 Beli o 250 Robux.</p></div>
+    <div class="item"><img src="img/frutas/dolor.png" alt="Fruta Dolor"><h3>Fruta Dolor</h3><p>Habilidad: Crear patas explosivas para repeler enemigos.</p><p>Obtención: 2,300,000 Beli o 2,200 Robux.</p></div>
+    <div class="item"><img src="img/frutas/control.png" alt="Fruta Control"><h3>Fruta Control</h3><p>Habilidad: Manipular el entorno dentro de una esfera.</p><p>Obtención: 3,200,000 Beli o 2,500 Robux.</p></div>
+    <div class="item"><img src="img/frutas/portal.png" alt="Fruta Portal"><h3>Fruta Portal</h3><p>Habilidad: Teletransportación a través de portales.</p><p>Obtención: 1,900,000 Beli o 2,000 Robux.</p></div>
+  </section>
